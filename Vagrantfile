@@ -63,6 +63,7 @@ sudo ufw allow 2375/tcp
 sudo ufw allow 2376/tcp
 sudo ufw allow 80/tcp
 sudo ufw allow 443/tcp
+sudo ufw allow 8080/tcp
 
    ###############  Launching GitLab ################
 
