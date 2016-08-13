@@ -1,0 +1,8 @@
+Enable-RemoteDesktop
+choco feature enable -n=allowGlobalConfirmation
+choco install git
+choco install winrar
+choco install notepadplusplus
+choco install atom
+choco feature disable -n=allowGlobalConfirmation
+
